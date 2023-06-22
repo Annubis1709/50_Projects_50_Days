@@ -1,4 +1,4 @@
-# 50_Projects_50_Days
+# 50 HTML/CSS/JavaScript Projects
 | #   | Project                        | Live Demo     |
 | --- | ------------------------------ | ------------- |
 | 01  | Expanding Cards                | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/Expanding%20Cards/)   |
