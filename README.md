@@ -1,7 +1,7 @@
 # 50_Projects_50_Days
 | #   | Project                        | Live Demo     |
 | --- | ------------------------------ | ------------- |
-| 01  | Expanding Cards                | [Live Demo](URL)   |
+| 01  | Expanding Cards                | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/Expanding%20Cards/)   |
 | 02  | Progress Steps                 | [Live Demo](URL)   |
 | 03  | Rotating Navigation Animation  | [Live Demo](URL)   |
 | 04  | Hidden Search Widget           | [Live Demo](URL)   |
