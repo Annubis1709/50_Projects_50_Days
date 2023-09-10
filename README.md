@@ -4,7 +4,7 @@
 | 01  | [Expanding Cards](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/1%20-%20Expanding%20Cards)                | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/1%20-%20Expanding%20Cards/)   |
 | 02  | [Progress Steps](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/2%20-%20Progress%20Steps)                 | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/2%20-%20Progress%20Steps/)   |
 | 03  | [Rotating Navigation Animation](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/3%20-%20Rotating%20Navigation%20Animation)  | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/3%20-%20Rotating%20Navigation%20Animation/)   |
-| 04  | Hidden Search Widget           | [Live Demo](URL)   |
+| 04  | [Hidden Search Widget](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/4%20-%20Hidden%20Search%20Widget)           | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/4%20-%20Hidden%20Search%20Widget/)   |
 | 05  | Blurry Loading                 | [Live Demo](URL)   |
 | 06  | Scroll Animation               | [Live Demo](URL)   |
 | 07  | Split Landing Page             | [Live Demo](URL)   |
