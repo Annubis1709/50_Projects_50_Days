@@ -5,7 +5,7 @@
 | 02  | [Progress Steps](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/2%20-%20Progress%20Steps)                 | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/2%20-%20Progress%20Steps/)   |
 | 03  | [Rotating Navigation Animation](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/3%20-%20Rotating%20Navigation%20Animation)  | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/3%20-%20Rotating%20Navigation%20Animation/)   |
 | 04  | [Hidden Search Widget](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/4%20-%20Hidden%20Search%20Widget)           | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/4%20-%20Hidden%20Search%20Widget/)   |
-| 05  | [Blurry Loading](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/5%20-%20Blurry%20Loading)                 | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/5%20-%20Blurry%20Loading)   |
+| 05  | [Blurry Loading](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/5%20-%20Blurry%20Loading)                 | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/5%20-%20Blurry%20Loading/)   |
 | 06  | Scroll Animation               | [Live Demo](URL)   |
 | 07  | Split Landing Page             | [Live Demo](URL)   |
 | 08  | Form Wave                      | [Live Demo](URL)   |
