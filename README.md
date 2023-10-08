@@ -1,14 +1,14 @@
-# 50 HTML/CSS/JavaScript Projects
+# 50 MINI HTML/CSS/JavaScript Projects
 | #   | Project                        | Live Demo     |
 | --- | ------------------------------ | ------------- |
-| 01  | [Expanding Cards](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/1%20-%20Expanding%20Cards)                | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/1%20-%20Expanding%20Cards/)   |
-| 02  | [Progress Steps](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/2%20-%20Progress%20Steps)                 | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/2%20-%20Progress%20Steps/)   |
-| 03  | [Rotating Navigation Animation](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/3%20-%20Rotating%20Navigation%20Animation)  | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/3%20-%20Rotating%20Navigation%20Animation/)   |
-| 04  | [Hidden Search Widget](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/4%20-%20Hidden%20Search%20Widget)           | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/4%20-%20Hidden%20Search%20Widget/)   |
-| 05  | [Blurry Loading](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/5%20-%20Blurry%20Loading)                 | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/5%20-%20Blurry%20Loading/)   |
-| 06  | [Scroll Animation](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/6%20-%20Scroll%20Animation)               | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/6%20-%20Scroll%20Animation/)   |
-| 07  | [Split Landing Page](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/7%20-%20Split%20Landing%20Page)             | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/7%20-%20Split%20Landing%20Page/)   |
-| 08  | [Form Wave](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/8%20-%20Form%20Wave)                      | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/8%20-%20Form%20Wave/)   |
+| 01  | [Expanding Cards](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/1%20-%20Expanding%20Cards)                | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/1%20-%20Expanding%20Cards/)   |
+| 02  | [Progress Steps](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/2%20-%20Progress%20Steps)                 | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/2%20-%20Progress%20Steps/)   |
+| 03  | [Rotating Navigation Animation](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/3%20-%20Rotating%20Navigation%20Animation)  | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/3%20-%20Rotating%20Navigation%20Animation/)   |
+| 04  | [Hidden Search Widget](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/4%20-%20Hidden%20Search%20Widget)           | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/4%20-%20Hidden%20Search%20Widget/)   |
+| 05  | [Blurry Loading](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/5%20-%20Blurry%20Loading)                 | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/5%20-%20Blurry%20Loading/)   |
+| 06  | [Scroll Animation](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/6%20-%20Scroll%20Animation)               | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/6%20-%20Scroll%20Animation/)   |
+| 07  | [Split Landing Page](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/7%20-%20Split%20Landing%20Page)             | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/7%20-%20Split%20Landing%20Page/)   |
+| 08  | [Form Wave](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/8%20-%20Form%20Wave)                      | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/8%20-%20Form%20Wave/)   |
 | 09  | Sound Board                    | [Live Demo](URL)   |
 | 10  | Dad Jokes                      | [Live Demo](URL)   |
 | 11  | Event Keycodes                 | [Live Demo](URL)   |
