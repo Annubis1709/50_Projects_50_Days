@@ -7,7 +7,7 @@
 | 04  | [Hidden Search Widget](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/4%20-%20Hidden%20Search%20Widget)           | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/4%20-%20Hidden%20Search%20Widget/)   |
 | 05  | [Blurry Loading](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/5%20-%20Blurry%20Loading)                 | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/5%20-%20Blurry%20Loading/)   |
 | 06  | [Scroll Animation](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/6%20-%20Scroll%20Animation)               | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/6%20-%20Scroll%20Animation/)   |
-| 07  | Split Landing Page             | [Live Demo](URL)   |
+| 07  | [Split Landing Page](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/7%20-%20Split%20Landing%20Page)             | [Live Demo](https://annubis1709.github.io/50_Projects_50_Days/7%20-%20Split%20Landing%20Page/)   |
 | 08  | Form Wave                      | [Live Demo](URL)   |
 | 09  | Sound Board                    | [Live Demo](URL)   |
 | 10  | Dad Jokes                      | [Live Demo](URL)   |
