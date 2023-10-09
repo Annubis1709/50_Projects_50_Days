@@ -10,7 +10,7 @@
 | 07  | [Split Landing Page](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/7%20-%20Split%20Landing%20Page)             | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/7%20-%20Split%20Landing%20Page/)   |
 | 08  | [Form Wave](https://github.com/Annubis1709/50_Projects_50_Days/tree/main/8%20-%20Form%20Wave)                      | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/8%20-%20Form%20Wave/)   |
 | 09  | [Sound Board](https://github.com/Annubis1709/50_mini_HTML_CSS3_JAVASCRIPT_projects/tree/main/9%20-%20Sound%20Board)                    | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/9%20-%20Sound%20Board/)   |
-| 10  | [Dad Jokes](https://github.com/Annubis1709/50_mini_HTML_CSS3_JAVASCRIPT_projects/tree/main/10%20-%20Dad%20Jokes)                      | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/0%20-%20Dad%20Jokes/)   |
+| 10  | [Dad Jokes](https://github.com/Annubis1709/50_mini_HTML_CSS3_JAVASCRIPT_projects/tree/main/10%20-%20Dad%20Jokes)                      | [Live Demo](https://annubis1709.github.io/50_mini_HTML_CSS3_JAVASCRIPT_projects/10%20-%20Dad%20Jokes/)   |
 | 11  | Event Keycodes                 | [Live Demo](URL)   |
 | 12  | Faq Collapse                   | [Live Demo](URL)   |
 | 13  | Random Choice Picker           | [Live Demo](URL)   |
